@@ -352,6 +352,11 @@ li:hover {
     text-decoration: underline;
 }
 
+li a {
+    color: white;
+    text-decoration: none;
+}
+
 #page6 h1 {
     margin-left: 30px;
     font-family: rejoice;
