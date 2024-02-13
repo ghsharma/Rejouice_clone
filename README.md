@@ -1,12 +1,9 @@
 # Rejouice Clone
-
-![Rejouice Clone](https://example.com/your-screenshot.png)
-
 A clone of the [Rejouice](https://www.rejouice.com/) website built with HTML, CSS, JavaScript, GSAP, Swiper.js, Locomotive Scroll, and ScrollTrigger.
 
 ## Demo
 
-You can see a live demo of the project [here](https://your-demo-link.com).
+You can see a live demo of the project [here]((https://ghsharma.github.io/Rejouice_clone/)).
 
 ## Features
 
