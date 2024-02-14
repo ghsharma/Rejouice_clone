@@ -3,7 +3,7 @@ A clone of the [Rejouice](https://www.rejouice.com/) website built with HTML, CS
 
 ## Demo
 
-You can see a live demo of the project [here]((https://ghsharma.github.io/Rejouice_clone/)).
+You can see a live demo of the project [here](https://ghsharma.github.io/Rejouice_clone/).
 
 ## Features
 
